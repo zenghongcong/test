@@ -10,5 +10,4 @@
         new Object();
         
 ***
-[MSN](http://search.msn.com/ "MSN Search")
-<a href="https://www.baidu.com"><img src="https://github.com/zenghongcong/test/blob/master/header.jpg?raw=true"></a>
+
