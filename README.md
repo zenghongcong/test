@@ -11,3 +11,4 @@
         
 ***
 [MSN](http://search.msn.com/ "MSN Search")
+![Alt text](http://test-h5.baogongyoucai.com/activity/20180815/images/banner.jpg "Optional title")
