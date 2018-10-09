@@ -11,4 +11,4 @@
         
 ***
 [MSN](http://search.msn.com/ "MSN Search")
-![按实际大数据](/header.jpg "Optional title")
+![按实际大数据](./header.jpg "Optional title")
